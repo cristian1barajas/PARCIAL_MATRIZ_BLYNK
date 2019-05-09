@@ -8,9 +8,9 @@
 
 Adafruit_NeoPixel pixels(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 
-char auth[] = "efe7f987c2534c0497aa09d2a65f1eec";
-char ssid[] = "BotLAB";
-char pass[] = "00003322";
+char auth[] = "XXXXXX";
+char ssid[] = "XXXXXX";
+char pass[] = "XXXXXX";
 
 int my_Array[4][4];
 int Count = 0;
